@@ -2,7 +2,6 @@
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
 lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
-permalink: /blog/:year/:month/:day/:title/
 
 whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
 plugins:
@@ -25,17 +24,17 @@ url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Simple Texture
 description: "A gem-based responsive simple texture styled Jekyll theme."
-keywords: 'jekyll,theme,gem-based,blog'
+keywords: 'jekyll,theme,gem-based,'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name: Rémi Cailletaud
+  job_title: SysAdmin/DevOps
+  location: Grenoble
+  email: remche@remche.org
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/remche
     - name: instagram
       url:
     - name: linkedin
@@ -47,13 +46,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
-blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
-  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+  section1: <h1>Rémi Cailletaud</h1>
+  section2: <h2>DevOps - SysAdmin</h2>
+  section3: <h3>Scroll down for more</h3>
 
 disqus:
   shortname: # e.g. yizeng
@@ -63,6 +58,4 @@ addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. r
 
 paths:
   home: /
-  blog: /blog/
-  categories: /blog/categories/
-  tags: /blog/tags/
+  cv: /files/cv.pdf
