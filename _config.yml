@@ -58,4 +58,4 @@ addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. r
 
 paths:
   home: /
-  cv: /files/cv.pdf
+  cv: https://github.com/remche/cv/raw/master/examples/cv.pdf
