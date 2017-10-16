@@ -23,7 +23,7 @@ sass:
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+description: "Rémi Cailletaud - SysAdmin DevOps"
 keywords: 'jekyll,theme,gem-based,'
 author:
   name: Rémi Cailletaud
