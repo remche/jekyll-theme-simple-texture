@@ -22,8 +22,8 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "Rémi Cailletaud - SysAdmin DevOps"
+title: Rémi Cailletaud
+description: "SysAdmin DevOps"
 keywords: 'jekyll,theme,gem-based,'
 author:
   name: Rémi Cailletaud
